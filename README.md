@@ -1,7 +1,5 @@
-# Lab-02---Python
-Projeto Interno 02 - Python (Blueshift Brasil)
-
-Projeto CadUni
+# Proj-02---Python
+Projeto 02 - Python 
 
 Objetivo: Desenvolver o sistema de cartão de transporte  municipal e o sistema que controlará a frota. Para desenvolver esse sistema utilizaremos programação orientada a objetos. O seu algoritmo deverá armazenar todos os dados dentro do banco de dados SQL Server. As classes e seus atributos já foram pré-definidos. Todos os atributos deverão ser privados, portanto será necessário criar métodos gets e sets para todas as classes.
 
