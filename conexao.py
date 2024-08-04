@@ -6,7 +6,7 @@ def conectar_banco():
     server = 'sql-estudo.database.windows.net'
     driver = '{ODBC Driver 17 for SQL Server}'
     database = 'db-estudos'
-    username = 'felipe.abreu@blueshift.com.br'
+    username = 'xxxx@xxxxx.com.br'
     Authentication='ActiveDirectoryInteractive'
     port = '1433'
     conn = pyodbc.connect('DRIVER='+driver+';SERVER='+server+';AUTHENTICATION='+Authentication+';PORT='+port+';DATABASE='+database+';UID='+username)#+';PWD='+password)
